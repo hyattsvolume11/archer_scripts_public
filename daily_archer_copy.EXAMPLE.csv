@@ -1,0 +1,3 @@
+# example CSV file created by script: 
+xxx.yyy.staging.xxx,APP_NAME,APP_ENVIRONMENT_STAGING
+xxx.yyy.production.xxx,APP_NAME,APP_ENVIRONMENT_PRODUCTION
